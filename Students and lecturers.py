@@ -189,6 +189,7 @@ print(dima)
 print(vova)
 print(petya < kolya)
 print(kolya < petya)
+print(kolya == petya)
 
 vasya.add_courses("GitHub")
 print(vasya.finished_courses)
